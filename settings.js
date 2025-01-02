@@ -19,25 +19,25 @@ global.SESSION_ID = process.env.SESSION_ID || ''
 //Enter your Xploader session id here; must start with XPLOADER~
 
 //=================================================//
-global.botname = process.env.BOT_NAME || '᙭ᑭᒪOᗩᗪᗴᖇ ᗷOT' 
+global.botname = process.env.BOT_NAME || 'SHADOWWALKER V2 BOT' 
 //Your desired bot name
 
 //=================================================//
-global.ownernumber = process.env.OWNER_NUMBER || '254754783972' 
+global.ownernumber = process.env.OWNER_NUMBER || '263714183261' 
 //Type your number here
 
 //=================================================//
-global.ownername = process.env.OWNER_NAME || 'Tylor' 
+global.ownername = process.env.OWNER_NAME || 'Innocent Mandishona' 
 //Type your name here
 
 //=================================================//
 global.plink = process.env.PLINK || "https://www.instagram.com/heyits_tylor?igsh=YzljYTk1ODg3Zg=="
 
 //=================================================//
-global.wm = process.env.GL_WM || "©᙭ᑭᒪOᗩᗪᗴᖇ ᗷOT"
+global.wm = process.env.GL_WM || "©SHADOWWALKER v2"
 
 //=================================================//
-global.packname = process.env.STICKER_PACK_NAME || "᙭ᑭᒪOᗩᗪᗴᖇ" 
+global.packname = process.env.STICKER_PACK_NAME || "SHADOWWALKER V2" 
 //The sticker pack name
 
 //=================================================//
@@ -79,7 +79,7 @@ global.timezones = process.env.TIMEZONE || "Africa/Nairobi"
 //Don't edit this if you don't know!
 
 //=================================================//
-global.countrycode = process.env.COUNTRY_CODE || '254' 
+global.countrycode = process.env.COUNTRY_CODE || '263' 
 //set your country code for functionality of blockforeign and antiforeign commands
 
 //=================================================//
@@ -111,7 +111,7 @@ global.mess = {
   nsfw: '*Tell the admin to enable NSFW first!*', 
   done: '*Done*', 
   error: '*Sorry, I cannot perform that action!*', 
-  success: '*©𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐁𝐨𝐭*', 
+  success: '*©SHADOWWALKER V2 BOT*', 
   premium: '*Only premium users can use this command!*', 
   owner: '*Apologies, only my owner can use this command!*', 
   group: '*This feature becomes available when you use it in a group!*', 
